@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion":"0.6.4",
   "scripts": [
-  	"look-at-that.js"
+    "look-at-that.js"
   ],
   "socket": true,
   "changelog":"https://raw.githubusercontent.com/JakeGinnivan/LookAtThat/master/README.md",
